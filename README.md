@@ -1,4 +1,4 @@
-**EpicForge Solutions - Sobre Nós**
+# **EpicForge Solutions - Sobre Nós**
 
 Bem-vindo à **EpicForge Solutions**, onde a inovação encontra a paixão pelos jogos! Somos uma empresa dedicada ao desenvolvimento premium para MTA e FiveM, além de construir comunidades vibrantes que elevam a experiência gamer.
 
